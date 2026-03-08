@@ -4,7 +4,7 @@ Como primer paso se realizó un escaneo de todos los puertos de la
 máquina víctima con la herramienta nmap
 
 ``` shell
-nmap -sS -Pn -p- 172.17.0.2
+nmap -sS -Pn 10.65.129.40
 ```
 
 -   -sS - Envía paquetes TCP Syn sin completar el handshake para mejorar
