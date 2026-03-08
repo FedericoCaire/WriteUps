@@ -63,7 +63,7 @@ del paquete webshells de kali linux
 <img width="632" height="88" alt="Image" src="https://github.com/user-attachments/assets/dad6a203-cac7-477f-87fa-96c207b848fb" />
 
 Luego de haber copiado el script **php-reverse-shell.php**, lo
-modificamos para que envíe la reverse shell a nuestra dirección ip
+modificamos para que envíe la reverse shell a nuestra dirección ip.
 
 <img width="801" height="533" alt="Image" src="https://github.com/user-attachments/assets/7e7f59ba-c5a2-47d5-80f3-09ea23d07866" />
 
@@ -102,6 +102,7 @@ reverse shell enviada, recibiendo así la conexión en la máquina atacante
 que estaba escuchando el puerto 1234, ganando así acceso al servidor.
 
 <img width="877" height="222" alt="Image" src="https://github.com/user-attachments/assets/0067f7e3-f70c-4c90-a1cf-54c785abe1d7" />
+
 ### Post Explotación
 
 Se obtuvo acceso al servidor con el usuario **www-data**, por lo que
@@ -153,5 +154,6 @@ Y ahora sí se pudo obtener una shell con el usuario root.
 
 <img width="236" height="96" alt="Image" src="https://github.com/user-attachments/assets/b14f7cbc-5986-4f23-8134-1e45e0ff2129" />
 <img width="260" height="94" alt="Image" src="https://github.com/user-attachments/assets/995b7ab7-8b98-4e4c-9337-bdd4dc773370" />
+
 
 
