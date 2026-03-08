@@ -151,6 +151,7 @@ Y ahora sí se pudo obtener una shell con el usuario root.
 
 ### Captura de Flags
 
-<img width="266" height="99" alt="Image" src="https://github.com/user-attachments/assets/a83e42af-fc30-4c2b-a11f-31946323e871" />
+<img width="236" height="96" alt="Image" src="https://github.com/user-attachments/assets/b14f7cbc-5986-4f23-8134-1e45e0ff2129" />
 <img width="260" height="94" alt="Image" src="https://github.com/user-attachments/assets/995b7ab7-8b98-4e4c-9337-bdd4dc773370" />
+
 
