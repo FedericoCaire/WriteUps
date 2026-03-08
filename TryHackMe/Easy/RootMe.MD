@@ -66,6 +66,7 @@ Luego de haber copiado el script **php-reverse-shell.php**, lo
 modificamos para que envíe la reverse shell a nuestra dirección ip
 
 <img width="801" height="533" alt="Image" src="https://github.com/user-attachments/assets/7e7f59ba-c5a2-47d5-80f3-09ea23d07866" />
+
 ### Explotación
 
 Una vez con el archivo **php-reverse-shell.php** listo, se intentó subir
@@ -152,3 +153,4 @@ Y ahora sí se pudo obtener una shell con el usuario root.
 
 <img width="266" height="99" alt="Image" src="https://github.com/user-attachments/assets/a83e42af-fc30-4c2b-a11f-31946323e871" />
 <img width="260" height="94" alt="Image" src="https://github.com/user-attachments/assets/995b7ab7-8b98-4e4c-9337-bdd4dc773370" />
+
